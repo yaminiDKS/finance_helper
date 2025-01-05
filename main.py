@@ -24,6 +24,7 @@ model = genai.GenerativeModel(
         "special cases provided. Focus on government schemes but do not exclude other "
         "reliable options. Provide the full name of the scheme, its benefits, eligibility "
         "criteria, and step-by-step guidance on how to enroll."
+        "include loan sugessions also"
     ),
 )
 
